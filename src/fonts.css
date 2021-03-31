@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "ProBa Extra Light";
+  src: url(./fonts/proba_pro_extralight-webfont.woff) format("woff");
+}
+@font-face {
+  font-family: "ProBa Light";
+  src: url(./fonts/proba_pro_light-webfont.woff) format("woff");
+}
+@font-face {
+  font-family: "ProBa Medium";
+  src: url(./fonts/proba_pro_medium-webfont.woff) format("woff");
+}
+@font-face {
+  font-family: "ProBa Regular";
+  src: url(./fonts/proba_pro_regular-webfont.woff) format("woff");
+}
+@font-face {
+  font-family: "ProBa Semibold";
+  src: url(./fonts/proba_pro_semibold-webfont.woff) format("woff");
+}
